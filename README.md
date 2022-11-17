@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Christopher!
+- 👋 Hi, I’m cpaggron!
 - I program mainly in Python and Java and is a programmer on my robotics team
 
 <!---

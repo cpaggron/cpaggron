@@ -1,5 +1,6 @@
 - 👋 Hi, I’m cpaggron!
-- I program mainly in Python and Java and is a programmer on my robotics team
+- I program mainly in Python and Java
+- Lead Programmer on my school's robotics team
 
 <!---
 cpaggron/cpaggron is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
